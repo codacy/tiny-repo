@@ -40,13 +40,13 @@ Salom dunyo
 Сәлем әлем
 Салам дүйнө
 Салом ҷаҳон
-Salam düný
-Sveikinu pasauli
-Sveiki pasauli
+Salam dünýä
+Bonjour monde
+Hola mundo
 Saluton mondo
 Salam alaikum
 Selamat dunia
-Kumusta mundo
+Kumusta
 Hello mundo
 Halo dunia
 Hallo dunia
@@ -63,38 +63,38 @@ Labas rytas
 Labdien
 Sveiki
 Bonghjornu
-Buongiorno
-Bonjour
-Buenos días
-Bom dia
-Guten Tag
-Dobrý deň
-Dobry dzień
-Hyvää päivää
-God dag
-Goedendag
-God morgen
-Goeie môre
-Maayong buntag
-Magandang umaga
-Selamat pagi
-Günaydın
-Sabah al khair
-Boker tov
-Kalimera
-Dzien dobry
-Dobro jutro
-Dobré ráno
-Jó reggelt
-God morgon
-Hyvää huomenta
-Bonan matenon
-Goeie more
-Ohayō gozaimasu
-Annyeonghaseyo
-Zǎoān
-Zǎoshang hǎo
-Shubh prabhaat
-Suprabhat
-Vanakkam
-Namaste
+Buongiorno mondo
+Bonjour monde
+Buenos días mundo
+Bom dia mundo
+Guten Tag Welt
+Dobrý deň svet
+Dobry dzień świat
+Hyvää päivää maailma
+God dag verden
+Goedendag wereld
+God morgen verden
+Goeie môre wêreld
+Maayong buntag kalibutan
+Magandang umaga mundo
+Selamat pagi dunia
+Günaydın dünya
+Sabah al khair aalam
+Boker tov olam
+Kalimera kosmos
+Dzien dobry świat
+Dobro jutro svijet
+Dobré ráno svet
+Jó reggelt világ
+God morgon världen
+Hyvää huomenta maailma
+Bonan matenon mondo
+Goeie more wêreld
+Ohayō sekai
+Annyeonghaseyo sesang
+Zǎo shàng hǎo shìjiè
+Shubh prabhaat sansaar
+Suprabhat biswa
+Vanakkam ulagam
+Namaste sansaar
+Salam dunia
